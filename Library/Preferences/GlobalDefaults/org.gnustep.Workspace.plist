@@ -90,6 +90,8 @@
     <integer>2</integer>
     <key>dockstyle</key>
     <integer>1</integer>
+    <key>hidedock</key>
+    <true/>
     <key>use_thumbnails</key>
     <true/>
 </dict>
