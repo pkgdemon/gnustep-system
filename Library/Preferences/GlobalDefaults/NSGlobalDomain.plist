@@ -23,19 +23,11 @@
     </array>
     <key>GSFileBrowserHideDotFiles</key>
     <string>YES</string>
-    <key>GSTheme</key>
-    <string>Eau</string>
     <key>NSUseRunningCopy</key>
     <integer>1</integer>
     <key>GSAppOwnsMiniwindow</key>
     <integer>0</integer>
     <key>GSSuppressAppIcon</key>
     <integer>1</integer>
-    <key>NSFont</key>
-    <string>Inter-Medium</string>
-    <key>NSFontSize</key>
-    <string>13.0</string>
-    <key>GSFilenameExtensionDisplayMode</key>
-    <string>2</string>
 </dict>
 </plist>
